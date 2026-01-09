@@ -15,5 +15,5 @@ Annoy your friends and GMs in WoW 1.12.  Create altered item names and rarities 
 3a - If it is a valid item id, the title and rarity will populate  
 3c - Alternatively, use 'Random' to get a random item  
 4 - Modify the item name and rarity  
-5 - Click 'Generate Link'  
+5 - Click 'Create Link'  
 6 - A link is sent to your main chat window that can now be shared by shift clicking  
