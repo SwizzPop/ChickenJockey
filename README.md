@@ -9,8 +9,8 @@ Annoy your friends and GMs in WoW 1.12.  Create altered item names and rarities 
 
 ### Usage
 1 - Open with /cj, /chickenjockey or the minimap button  
-2 - Enter an item id you found at https://database.turtlecraft.gg  
-2a - Example: https://database.turtlecraft.gg/?item=12544, the item id is 12544  
+2 - Enter an item id you found at https://www.wowhead.com/classic/  
+2a - Example: https://www.wowhead.com/classic/item=12544, the item id is 12544  
 3 - Click 'Fetch'  
 3a - If it is a valid item id, the title and rarity will populate  
 3c - Alternatively, use 'Random' to get a random item  
