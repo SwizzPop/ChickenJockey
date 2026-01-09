@@ -47,7 +47,7 @@
                         </Anchor>
                     </Anchors>
                 </FontString>
-                <FontString name="ChickenJockeyInstructions2" inherits="GameFontDisableSmall" text="Example: https://database.turtlecraft.gg/?item=11944, item ID is 11944">
+                <FontString name="ChickenJockeyInstructions2" inherits="GameFontDisableSmall" text="Example: https://www.wowhead.com/classic/item=11944, item ID is 11944">
                     <Anchors>
                         <Anchor point="TOPLEFT" relativePoint="TOPLEFT">
                             <Offset>
