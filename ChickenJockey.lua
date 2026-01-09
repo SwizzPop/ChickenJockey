@@ -428,7 +428,7 @@ function ChickenJockey_CreateLink()
     local itemLink = "item:" .. itemId .. ":0:0:0"
     local linkText = colorCode .. "|H" .. itemLink .. "|h[" .. itemName .. "]|h|r"
     
-    -- Send to chat using DEFAULT_CHAT_FRAME (like CensusPlusTurtle)
+    -- Send to chat using DEFAULT_CHAT_FRAME
     DEFAULT_CHAT_FRAME:AddMessage(linkText)
     ShowStatus("Link sent to chat!", {0, 1, 0})
 end
